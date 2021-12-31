@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.imgSlide {
+  width: 100vw;
+  height: 100vh;
+}
+
+.bottom-imges {
+  margin: 10px;
+  width: 46vw;
+  height: 100%;
+}
+
+.footer-images {
+  width: 65px;
+  height: 30px;
+}
+
+.footer-paying-divs {
+  padding: 25px;
+  margin-top: 20px;
+}
+
+.infoPageDiv {
+  width: 90vw;
+  height: 80vh;
+}
+
+.each-product-img-div {
+  width: 40%;
+  
+}
